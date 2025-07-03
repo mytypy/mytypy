@@ -1,16 +1,16 @@
-## Hi there 👋
+ <div id="greet" align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=100&color=6CA2FF&background=1B1B27&center=true&vCenter=true&width=435&lines=Hi+there;It's+magaoutside;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**mytypy/mytypy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stack
+<img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,bots,cpp,bash,html,css,js,lua,sqlite"/>&nbsp;
 
-Here are some ideas to get you started:
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,github,figma,ai,photoshop,arduino,blender,robloxstudio,discord,arch,ubuntu,windows,linux"/>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stats
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mytypy&theme=tokyonight" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mytypy&theme=tokyonight" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mytypy&show_icons=true&theme=tokyonight" alt=""/>
+</div>
